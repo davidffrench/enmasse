@@ -49,7 +49,7 @@ require (
 	github.com/operator-framework/operator-sdk v0.15.1
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.2.1
-	github.com/prometheus/prometheus v2.15.2+incompatible
+	github.com/prometheus/prometheus v2.15.2
 	github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da // indirect
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.4.0
